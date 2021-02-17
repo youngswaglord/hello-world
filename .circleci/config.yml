@@ -11,3 +11,5 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+add-ssh-keys:
+  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFsKg3L6pvAIvr4TuPZMSO8OERTlRb/niWWPEQCjUAA Home11@aqua
